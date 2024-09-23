@@ -1,1 +1,1 @@
-# smc.github.io
+# smart contract
